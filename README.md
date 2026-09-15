@@ -94,40 +94,31 @@ An AI-powered platform for analyzing documents and identifying compliance-relate
 ### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ⚙️ Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-### 🤖 AI & Data
-
-`Artificial Intelligence` `AI Applications` `Data Analytics` `LLM APIs` `RAG`
+ 
 
 ---
 
 ## 🏆 Certification
-
-### 📜 NPTEL – Programming in Java
-
-**Elite + Gold | 92%**
-
-Successfully completed the NPTEL **Programming in Java** course offered by **IIT Kharagpur**.
 
 **🔗 Certificate Repository:**
 [View My Certificates](https://github.com/Vijetha-P-K/Certificate)
@@ -137,11 +128,10 @@ Successfully completed the NPTEL **Programming in Java** course offered by **IIT
 ## 💡 What I Know
 
 * ☕ **Java** – Programming fundamentals, OOP, arrays, strings, methods and problem solving
-* 🐍 **Python** – Programming fundamentals and AI-related development
 * 🌐 **HTML, CSS & JavaScript** – Web application development
 * ⚛️ **React.js** – Front-end development
 * 🍃 **Spring Boot** – Java-based backend development
-* 🗄️ **MySQL & PostgreSQL** – Database management and SQL
+* 🗄️ **MySQL** – Database management and SQL
 * 🤖 **AI & Data Analytics** – AI-based applications and data-driven solutions
 * 🔧 **Git & GitHub** – Version control and project management
 
@@ -162,17 +152,6 @@ My focus is on understanding the logic behind problems, writing clean code, and 
 I believe that consistent practice and real-world project development are the best ways to grow as a software developer.
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Vijetha-P-K">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vijetha-p-k-671543376/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
 
 <p align="center">
   💻 Building projects | 📚 Learning continuously | 🚀 Growing as a Software Developer

@@ -31,10 +31,10 @@ I am particularly interested in **Java, web technologies, databases, AI, and dat
 
 ### 🏥 Smart Web-Based Hospital Management System
 
-A web-based hospital management application designed to manage patients, doctors, appointments, bed availability, and emergency-related services. The system provides organized access to hospital information and helps reduce manual management.
+A web-based system for managing patients, doctors, appointments, beds, and emergency services.
 
 **🛠️ Tech Stack:**
-`Java` `Spring Boot` `Spring Data JPA` `JSP` `HTML5` `CSS3` `JavaScript` `MySQL` `Apache Tomcat` `Maven`
+`Java` `Spring Boot` `MySQL` `HTML/CSS/JavaScript`
 
 **🔗 Repository:**
 [View Project Repository](https://github.com/Vijetha-P-K/Smart-web-based-Hospital-Management-System)
@@ -43,10 +43,10 @@ A web-based hospital management application designed to manage patients, doctors
 
 ### 🤖 AI Skill Gap Analysis Agent
 
-An AI-powered career development platform that helps students identify technical skill gaps, generate personalized learning roadmaps, analyze resumes, recommend suitable projects, and prepare for interviews.
+An AI platform that identifies skill gaps, creates learning roadmaps, analyzes resumes, and supports interview preparation.
 
 **🛠️ Tech Stack:**
-`React.js` `JavaScript` `CSS3` `Python` `FastAPI` `Pydantic` `Groq API` `LangChain` `ChromaDB` `PostgreSQL` `JWT` `bcrypt` `Docker` `GitHub Actions`
+`React.js` `Python` `FastAPI` `Groq API`
 
 **🔗 Repository:**
 [View Project Repository](https://github.com/Vijetha-P-K/AI-Skill-Gap-Agent)
@@ -55,10 +55,10 @@ An AI-powered career development platform that helps students identify technical
 
 ### 🔐 VaultMind AI
 
-An AI-powered personal knowledge and information management platform designed to provide a centralized space for managing and accessing personal information with intelligent features.
+An AI-powered knowledge management platform for organizing and accessing information intelligently.
 
 **🛠️ Tech Stack:**
-`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Supabase` `PostgreSQL` `Supabase Auth` `Netlify`
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
 **🔗 Repository:**
 [View Project Repository](https://github.com/Vijetha-P-K/VaultMind-AI)
@@ -67,10 +67,10 @@ An AI-powered personal knowledge and information management platform designed to
 
 ### 🌱 Carbon Footprint Tracker
 
-A web application that helps users calculate and track their carbon footprint. It provides features for recording carbon emissions, monitoring progress, setting reduction goals, and encouraging sustainable practices.
+A web application for calculating, tracking, and reducing personal carbon emissions.
 
 **🛠️ Tech Stack:**
-`Java` `Spring Boot` `Spring Data JPA` `MySQL` `JWT Authentication` `HTML` `CSS` `JavaScript` `Fetch API` `Postman` `MySQL Workbench`
+`Java` `Spring Boot` `MySQL` `JavaScript`
 
 **🔗 Repository:**
 [View Project Repository](https://github.com/Vijetha-P-K/carbon-footprint-tracker)
@@ -79,10 +79,10 @@ A web application that helps users calculate and track their carbon footprint. I
 
 ### 🤖 ComplyAI
 
-An AI-powered business compliance and document intelligence platform designed to analyze documents, identify compliance-related risks and gaps, and provide useful insights using AI-based processing.
+An AI-powered platform for analyzing documents and identifying compliance-related risks and gaps.
 
 **🛠️ Tech Stack:**
-`React.js` `Vite` `Axios` `Python` `FastAPI` `Groq LLM` `Llama 3.3` `LangChain` `PostgreSQL` `SQLAlchemy` `ChromaDB` `RAG` `ReportLab` `Docker` `Docker Compose`
+`React.js` `Python` `FastAPI` `Groq LLM`
 
 **🔗 Repository:**
 [View Project Repository](https://github.com/Vijetha-P-K/ComplyAI)
@@ -94,25 +94,25 @@ An AI-powered business compliance and document intelligence platform designed to
 ### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### ⚙️ Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,git,github,vscode,idea,postman" />
 </p>
 
 ### 🤖 AI & Data
@@ -123,6 +123,12 @@ An AI-powered business compliance and document intelligence platform designed to
 
 ## 🏆 Certification
 
+### 📜 NPTEL – Programming in Java
+
+**Elite + Gold | 92%**
+
+Successfully completed the NPTEL **Programming in Java** course offered by **IIT Kharagpur**.
+
 **🔗 Certificate Repository:**
 [View My Certificates](https://github.com/Vijetha-P-K/Certificate)
 
@@ -131,10 +137,11 @@ An AI-powered business compliance and document intelligence platform designed to
 ## 💡 What I Know
 
 * ☕ **Java** – Programming fundamentals, OOP, arrays, strings, methods and problem solving
+* 🐍 **Python** – Programming fundamentals and AI-related development
 * 🌐 **HTML, CSS & JavaScript** – Web application development
 * ⚛️ **React.js** – Front-end development
 * 🍃 **Spring Boot** – Java-based backend development
-* 🗄️ **MySQL** – Database management and SQL
+* 🗄️ **MySQL & PostgreSQL** – Database management and SQL
 * 🤖 **AI & Data Analytics** – AI-based applications and data-driven solutions
 * 🔧 **Git & GitHub** – Version control and project management
 

@@ -51,6 +51,9 @@ An AI platform that identifies skill gaps, creates learning roadmaps, analyzes r
 **🔗 Repository:**
 [View Project Repository](https://github.com/Vijetha-P-K/AI-Skill-Gap-Agent)
 
+🚀 **Live Demo:** [AI Skill Gap Analysis Agent](https://ai-skill-gap-agent-1.onrender.com)
+
+
 ---
 
 ### 🔐 VaultMind AI
